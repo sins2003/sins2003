@@ -21,37 +21,37 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🙋‍♂️ About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```dart
-class SinsarulHaque {
-  final String name       = "Sinsarul Haque V K";
-  final String location   = "Chemmad, Malappuram, Kerala 🇮🇳";
-  final String degree     = "Diploma in Computer Engineering";
-  final String role       = "Flutter Developer @ Spine Codes Solutions LLP";
+### 👋 Hey there! I'm **Sinsarul Haque V K**
 
-  final List<String> stack = [
-    "Flutter", "Dart", "Firebase",
-    "Provider", "GetX", "Node.js",
-    "REST APIs", "GCP", "SQLite", "Hive",
-  ];
+🚀 A passionate **Flutter Developer** from the beautiful city of **Malappuram, Kerala 🇮🇳**  
+💙 I live and breathe **Dart & Flutter** — crafting buttery-smooth mobile apps for Android & iOS  
+🔥 Currently building real-world solutions at **Spine Codes Solutions LLP**  
+🎓 Diploma in Computer Engineering from **GPC Chelakkara, Thrissur**
 
-  final List<String> currentlyLearning = [
-    "Advanced Flutter Architecture",
-    "Backend Development with Node.js",
-    "Cloud Functions & GCP",
-  ];
+---
 
-  final String funFact =
-    "I speak Malayalam, English & Tamil — "
-    "just like my apps run on Android & iOS!";
+### ⚡ What I Do
 
-  String motto() =>
-    "Write clean code. Ship beautiful apps. Repeat.";
-}
-```
+✅ &nbsp; Build **cross-platform apps** that feel native on both Android & iOS  
+✅ &nbsp; Design **pixel-perfect UIs** from Figma — every pixel, every animation matters  
+✅ &nbsp; Wire up **Firebase** like a pro — Auth, Firestore, Storage, FCM, Cloud Functions  
+✅ &nbsp; Tame complex state with **Provider** & **GetX** — clean, fast, scalable  
+✅ &nbsp; Integrate **REST APIs** and craft **backend logic** with Node.js & GCP  
+✅ &nbsp; Ship apps that real people actually love using 💛
+
+---
+
+### 🌟 A Bit More About Me
+
+- 🗺️ **Location:** Chemmad, Malappuram, Kerala, India
+- 💬 **Languages I speak:** Malayalam · English · Tamil *(just like my apps run on Android & iOS!)*
+- 🧠 **Currently levelling up:** Advanced Flutter Architecture · Node.js Backend · Cloud Functions
+- 🎯 **Motto:** *"Write clean code. Ship beautiful apps. Repeat."*
+- ⚡ **Fun fact:** I built an election management system for the **2026 Kerala Assembly Elections** 🗳️
 
 <br clear="right"/>
 
